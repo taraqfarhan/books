@@ -1,12 +1,12 @@
 # My Personal Book Collection
 
-a personal collection of books across computer science, security, and beyond.
+my personal collection of books across computer science, hacking, and beyond.
 
 ---
 
 | finished | reading | total |
-|:--------:|:------:|:-----:|
-| 2 | 2 | 33 |
+| :------: | :-----: | :---: |
+|    5     |    3    |  45   |
 
 ---
 
@@ -34,19 +34,28 @@ a personal collection of books across computer science, security, and beyond.
 </details>
 
 <details>
-<summary><strong>hacking</strong> &nbsp;<code>10</code></summary>
+<summary><strong>hacking</strong> &nbsp;<code>19</code></summary>
 <br>
 
-- [~] Black Hat Python
+- [ ] Black Hat Python - Justin Seitz
 - [ ] Bug Bounty Bootcamp — Vickie Li
+- [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary — Tobias Klein
+- [ ] Hacking APIs — Corey J. Ball
+- [ ] JavaScript For Hackers - Heyes Gareth
 - [ ] Mastering Modern Web Penetration Testing - Prakhar Prasad
+- [ ] Network Basics for Hackers - OTW
 - [ ] Real-World Bug Hunting — Peter Yaworski
+- [ ] RTFM Red Team Field Manual — Ben Clark
+- [ ] RTFM Red Team Field Manual v2 — Ben Clark, Nick Downer
 - [ ] The Browser Hacker's Handbook — Alcorn, Frichot, Orru
 - [ ] The Database Hacker's Handbook — Litchfield, Anley, Heasman, Grindlay
+- [x] The Linux Command Line - William Shotts
 - [ ] The Mac Hacker's Handbook — Charlie Miller and Dino Dai Zovi
+- [ ] The Tangled Web - Michal Zalewski
 - [ ] The Web Application Hacker's Handbook — Stuttard and Pinto
 - [~] Web Hacking 101 — Peter Yaworski
+- [ ] Web Hacking Arsenal - Rafay Baloch
 
 </details>
 
@@ -66,21 +75,24 @@ a personal collection of books across computer science, security, and beyond.
 <br>
 
 - [ ] Forbidden Prophecies — Abu Zakariyah
-- [x] The Man in the Red Underpants
+- [x] The Man in the Red Underpants - A. R. Green
 
 </details>
 
 <details>
-<summary><strong>self-help</strong> &nbsp;<code>10</code></summary>
+<summary><strong>self-help</strong> &nbsp;<code>13</code></summary>
 <br>
 
 - [ ] 7 Habits of Highly Effective People — Stephen Covey
-- [ ] As a Man Thinketh — James Allen
-- [ ] Atomic Habits — James Clear
+- [x] As a Man Thinketh — James Allen
+- [~] Atomic Habits — James Clear
 - [ ] Autobiography of a Yogi — Paramhansa Yogananda
+- [ ] Autobiography of Malcom X - Malcom X & Alex Haley
 - [ ] Becoming Supernatural — Dr Joe Dispenza
-- [ ] Deep Work — Cal Newport
-- [ ] The Power of Your Subconscious Mind — Joseph Murphy
+- [~] Deep Work — Cal Newport
+- [ ] The Power Of Now - Eckhart Tolle
+- [x] The Power of Your Subconscious Mind — Joseph Murphy
+- [ ] The Productive Muslim - Mohammed Faris
 - [ ] Ultralearning — Scott Young
 - [ ] Win Every Argument — Mehdi Hasan
 - [ ] Zen Mind, Beginner's Mind — Shunryu Suzuki
@@ -95,4 +107,14 @@ a personal collection of books across computer science, security, and beyond.
 - `[~]` → currently reading
 - `[ ]` → unread
 
-*last updated: 3 April, 2026*
+---
+
+## annotations in the books
+
+I am using [Highlights](https://highlightsapp.net/) app to take notes in the books, and I have color coded the notes based on the following categories:
+
+![Note Colors](image.png)
+
+---
+
+_last updated: 10 April, 2026_
