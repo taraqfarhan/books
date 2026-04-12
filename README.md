@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    5     |    3    |  45   |
+|    5     |    4    |  47   |
 
 ---
 
@@ -34,13 +34,14 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>hacking</strong> &nbsp;<code>19</code></summary>
+<summary><strong>hacking</strong> &nbsp;<code>20</code></summary>
 <br>
 
 - [ ] Black Hat Python - Justin Seitz
 - [ ] Bug Bounty Bootcamp — Vickie Li
 - [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary — Tobias Klein
+- [ ] From Day Zero to Zero Day - Eugene Lim
 - [ ] Hacking APIs — Corey J. Ball
 - [ ] JavaScript For Hackers - Heyes Gareth
 - [ ] Mastering Modern Web Penetration Testing - Prakhar Prasad
@@ -53,7 +54,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [x] The Linux Command Line - William Shotts
 - [ ] The Mac Hacker's Handbook — Charlie Miller and Dino Dai Zovi
 - [ ] The Tangled Web - Michal Zalewski
-- [ ] The Web Application Hacker's Handbook — Stuttard and Pinto
+- [~] The Web Application Hacker's Handbook — Stuttard and Pinto
 - [~] Web Hacking 101 — Peter Yaworski
 - [ ] Web Hacking Arsenal - Rafay Baloch
 
@@ -80,7 +81,7 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>self-help</strong> &nbsp;<code>13</code></summary>
+<summary><strong>self-help</strong> &nbsp;<code>14</code></summary>
 <br>
 
 - [ ] 7 Habits of Highly Effective People — Stephen Covey
@@ -96,6 +97,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Ultralearning — Scott Young
 - [ ] Win Every Argument — Mehdi Hasan
 - [ ] Zen Mind, Beginner's Mind — Shunryu Suzuki
+- [ ] Zero to One — Peter Thiel
 
 </details>
 
@@ -117,4 +119,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 10 April, 2026_
+_last updated: 13 April, 2026_
