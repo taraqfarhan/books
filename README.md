@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    5     |    3    |  49   |
+|    5     |    3    |  52   |
 
 ---
 
@@ -34,17 +34,18 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>hacking</strong> &nbsp;<code>20</code></summary>
+<summary><strong>hacking</strong> &nbsp;<code>21</code></summary>
 <br>
 
 - [ ] Black Hat Python - Justin Seitz
-- [~] Bug Bounty Bootcamp - Vickie Li
+- [ ] **_<u>Bug Bounty Bootcamp - Vickie Li</u>_**
 - [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary - Tobias Klein
 - [ ] From Day Zero to Zero Day - Eugene Lim
 - [ ] Hacking APIs - Corey J. Ball
 - [ ] JavaScript For Hackers - Heyes Gareth
 - [ ] Mastering Modern Web Penetration Testing - Prakhar Prasad
+- [ ] Penetration Testing - Georgia Weidman
 - [ ] Network Basics for Hackers - OTW
 - [ ] Real-World Bug Hunting - Peter Yaworski
 - [ ] RTFM Red Team Field Manual - Ben Clark
@@ -55,15 +56,16 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] The Mac Hacker's Handbook - Charlie Miller and Dino Dai Zovi
 - [ ] The Tangled Web - Michal Zalewski
 - [ ] The Web Application Hacker's Handbook - Stuttard and Pinto
-- [~] Web Hacking 101 - Peter Yaworski
+- [ ] **_<u>Web Hacking 101 - Peter Yaworski</u>_**
 - [ ] Web Hacking Arsenal - Rafay Baloch
 
 </details>
 
 <details>
-<summary><strong>programming</strong> &nbsp;<code>4</code></summary>
+<summary><strong>programming</strong> &nbsp;<code>5</code></summary>
 <br>
 
+- [ ] Eloquent JavaScript - Marijn Haverbeke
 - [ ] Fluent Python - Luciano Ramalho
 - [ ] Learning SQL - Alan Beaulieu
 - [ ] The C Programming Language - Kernighan and Ritchie
@@ -72,10 +74,11 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>religion</strong> &nbsp;<code>3</code></summary>
+<summary><strong>religion</strong> &nbsp;<code>4</code></summary>
 <br>
 
-- [ ] Forbidden Prophecies - Abu Zakariyah
+- [ ] Divine Speech - Nouman Ali Khan
+- [ ] **_<u>Forbidden Prophecies - Abu Zakariyah</u>_**
 - [ ] The Burhan - Mohammed Hijab
 - [x] The Man in the Red Underpants - A. R. Green
 
@@ -91,7 +94,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Autobiography of a Yogi - Paramhansa Yogananda
 - [ ] Autobiography of Malcom X - Malcom X & Alex Haley
 - [ ] Becoming Supernatural - Dr Joe Dispenza
-- [~] Deep Work - Cal Newport
+- [ ] Deep Work - Cal Newport
 - [ ] The Official TED Guide to Public Speaking - Chris Anderson
 - [ ] The Power Of Now - Eckhart Tolle
 - [x] The Power of Your Subconscious Mind - Joseph Murphy
@@ -108,7 +111,7 @@ my personal collection of books across computer science, hacking, and beyond.
 ## key
 
 - `[x]` → finished
-- `[~]` → currently reading
+- `[ ]` → **_<u>currently reading</u>_**
 - `[ ]` → unread
 
 ---
@@ -121,4 +124,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 20 May, 2026_
+_last updated: 27 May, 2026_
