@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    5     |    3    |  52   |
+|    5    |    2    |  60   |
 
 ---
 
@@ -25,28 +25,30 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>artificial intelligence</strong> &nbsp;<code>2</code></summary>
+<summary><strong>artificial intelligence</strong> &nbsp;<code>3</code></summary>
 <br>
 
 - [ ] Artificial Intelligence - Stuart Russell and Peter Norvig
+- [ ] How AI Works From Sorcery to Science - Ronald T. Kneusel
 - [ ] Superintelligence - Nick Bostrom
 
 </details>
 
 <details>
-<summary><strong>hacking</strong> &nbsp;<code>21</code></summary>
+<summary><strong>hacking</strong> &nbsp;<code>22</code></summary>
 <br>
 
+- [ ] Black Hat GraphQL - Nick Aleks and Dolev Farhi
 - [ ] Black Hat Python - Justin Seitz
-- [ ] **_<u>Bug Bounty Bootcamp - Vickie Li</u>_**
+- [ ] **<ins>Bug Bounty Bootcamp - Vickie Li</ins>**
 - [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary - Tobias Klein
 - [ ] From Day Zero to Zero Day - Eugene Lim
 - [ ] Hacking APIs - Corey J. Ball
 - [ ] JavaScript For Hackers - Heyes Gareth
 - [ ] Mastering Modern Web Penetration Testing - Prakhar Prasad
-- [ ] Penetration Testing - Georgia Weidman
 - [ ] Network Basics for Hackers - OTW
+- [ ] Penetration Testing - Georgia Weidman
 - [ ] Real-World Bug Hunting - Peter Yaworski
 - [ ] RTFM Red Team Field Manual - Ben Clark
 - [ ] RTFM Red Team Field Manual v2 - Ben Clark, Nick Downer
@@ -56,8 +58,17 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] The Mac Hacker's Handbook - Charlie Miller and Dino Dai Zovi
 - [ ] The Tangled Web - Michal Zalewski
 - [ ] The Web Application Hacker's Handbook - Stuttard and Pinto
-- [ ] **_<u>Web Hacking 101 - Peter Yaworski</u>_**
+- [ ] **<ins>Web Hacking 101 - Peter Yaworski</ins>**
 - [ ] Web Hacking Arsenal - Rafay Baloch
+
+</details>
+
+<details>
+<summary><strong>operating system</strong> &nbsp;<code>2</code></summary>
+<br>
+
+- [ ] Mac OSX Internals - A Systems Approach - Amit Singh
+- [ ] Operating Systems - Three Easy Pieces - Remzi & Andrea
 
 </details>
 
@@ -74,18 +85,23 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>religion</strong> &nbsp;<code>4</code></summary>
+<summary><strong>religion</strong> &nbsp;<code>9</code></summary>
 <br>
 
 - [ ] Divine Speech - Nouman Ali Khan
-- [ ] **_<u>Forbidden Prophecies - Abu Zakariyah</u>_**
+- [ ] Forbidden Prophecies - Abu Zakariyah
+- [ ] Investigation on the Author's Style and the Authenticity of the Holy Quran - Halim Sayoud
+- [ ] Miraculous Language of the Quran - Bassam Saeh
+- [ ] Structure and Quranic Interpretation - Raymond Farrin
 - [ ] The Burhan - Mohammed Hijab
+- [ ] The Composition of the Quran - Michael Cuypers
 - [x] The Man in the Red Underpants - A. R. Green
+- [ ] The Modernist Menace to Islam - Daniel Haqiqatjou
 
 </details>
 
 <details>
-<summary><strong>self-help</strong> &nbsp;<code>15</code></summary>
+<summary><strong>self-help</strong> &nbsp;<code>14</code></summary>
 <br>
 
 - [ ] 7 Habits of Highly Effective People - Stephen Covey
@@ -102,7 +118,6 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Ultralearning - Scott Young
 - [ ] Win Every Argument - Mehdi Hasan
 - [ ] Zen Mind, Beginner's Mind - Shunryu Suzuki
-- [ ] Zero to One - Peter Thiel
 
 </details>
 
@@ -111,7 +126,7 @@ my personal collection of books across computer science, hacking, and beyond.
 ## key
 
 - `[x]` → finished
-- `[ ]` → **_<u>currently reading</u>_**
+- `[ ]` → **<ins>currently reading</ins>**
 - `[ ]` → unread
 
 ---
@@ -124,4 +139,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 27 May, 2026_
+_last updated: 30 June, 2026_
