@@ -38,7 +38,7 @@ my personal collection of books across computer science, hacking, and beyond.
 <br>
 
 - [ ] Black Hat Python - Justin Seitz
-- [ ] **_<u>Bug Bounty Bootcamp - Vickie Li</u>_**
+- [ ] **<ins>Bug Bounty Bootcamp - Vickie Li</ins>**
 - [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary - Tobias Klein
 - [ ] From Day Zero to Zero Day - Eugene Lim
@@ -56,7 +56,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] The Mac Hacker's Handbook - Charlie Miller and Dino Dai Zovi
 - [ ] The Tangled Web - Michal Zalewski
 - [ ] The Web Application Hacker's Handbook - Stuttard and Pinto
-- [ ] **_<u>Web Hacking 101 - Peter Yaworski</u>_**
+- [ ] **<ins>Web Hacking 101 - Peter Yaworski</ins>**
 - [ ] Web Hacking Arsenal - Rafay Baloch
 
 </details>
@@ -78,7 +78,7 @@ my personal collection of books across computer science, hacking, and beyond.
 <br>
 
 - [ ] Divine Speech - Nouman Ali Khan
-- [ ] **_<u>Forbidden Prophecies - Abu Zakariyah</u>_**
+- [ ] **<ins>Forbidden Prophecies - Abu Zakariyah</ins>**
 - [ ] The Burhan - Mohammed Hijab
 - [x] The Man in the Red Underpants - A. R. Green
 
@@ -111,7 +111,7 @@ my personal collection of books across computer science, hacking, and beyond.
 ## key
 
 - `[x]` → finished
-- `[ ]` → **_<u>currently reading</u>_**
+- `[ ]` → **<ins>currently reading</ins>**
 - `[ ]` → unread
 
 ---
@@ -124,4 +124,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 27 May, 2026_
+_last updated: 28 May, 2026_
