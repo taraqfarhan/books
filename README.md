@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    5    |    2    |  60   |
+|    8    |    2    |  67   |
 
 ---
 
@@ -25,17 +25,19 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>artificial intelligence</strong> &nbsp;<code>3</code></summary>
+<summary><strong>artificial intelligence</strong> &nbsp;<code>5</code></summary>
 <br>
 
 - [ ] Artificial Intelligence - Stuart Russell and Peter Norvig
+- [ ] Deep Learning - Ian Goodfellow
 - [ ] How AI Works From Sorcery to Science - Ronald T. Kneusel
+- [ ] Introduction to Statistical Learning with Python - Gareth James
 - [ ] Superintelligence - Nick Bostrom
 
 </details>
 
 <details>
-<summary><strong>hacking</strong> &nbsp;<code>22</code></summary>
+<summary><strong>hacking</strong> &nbsp;<code>26</code></summary>
 <br>
 
 - [ ] Black Hat GraphQL - Nick Aleks and Dolev Farhi
@@ -49,9 +51,12 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Mastering Modern Web Penetration Testing - Prakhar Prasad
 - [ ] Network Basics for Hackers - OTW
 - [ ] Penetration Testing - Georgia Weidman
+- [ ] Practical AI Security - Harriet Farlow
+- [ ] Practical Malware Analysis - Michael Sikorski & Andrew Honig
 - [ ] Real-World Bug Hunting - Peter Yaworski
 - [ ] RTFM Red Team Field Manual - Ben Clark
 - [ ] RTFM Red Team Field Manual v2 - Ben Clark, Nick Downer
+- [ ] Security Engineering v3 - Ross Anderson
 - [ ] The Browser Hacker's Handbook - Alcorn, Frichot, Orru
 - [ ] The Database Hacker's Handbook - Litchfield, Anley, Heasman, Grindlay
 - [x] The Linux Command Line - William Shotts
@@ -60,6 +65,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] The Web Application Hacker's Handbook - Stuttard and Pinto
 - [ ] **<ins>Web Hacking 101 - Peter Yaworski</ins>**
 - [ ] Web Hacking Arsenal - Rafay Baloch
+- [ ] Web Security Testing Guide v4.2 - OWASP
 
 </details>
 
@@ -78,7 +84,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 - [ ] Eloquent JavaScript - Marijn Haverbeke
 - [ ] Fluent Python - Luciano Ramalho
-- [ ] Learning SQL - Alan Beaulieu
+- [x] Learning SQL - Alan Beaulieu
 - [ ] The C Programming Language - Kernighan and Ritchie
 - [ ] The C++ Programming Language - Bjarne Stroustrup
 
@@ -89,11 +95,11 @@ my personal collection of books across computer science, hacking, and beyond.
 <br>
 
 - [ ] Divine Speech - Nouman Ali Khan
-- [ ] Forbidden Prophecies - Abu Zakariyah
+- [x] Forbidden Prophecies - Abu Zakariyah
 - [ ] Investigation on the Author's Style and the Authenticity of the Holy Quran - Halim Sayoud
 - [ ] Miraculous Language of the Quran - Bassam Saeh
 - [ ] Structure and Quranic Interpretation - Raymond Farrin
-- [ ] The Burhan - Mohammed Hijab
+- [x] The Burhan - Mohammed Hijab
 - [ ] The Composition of the Quran - Michael Cuypers
 - [x] The Man in the Red Underpants - A. R. Green
 - [ ] The Modernist Menace to Islam - Daniel Haqiqatjou
@@ -101,7 +107,7 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>self-help</strong> &nbsp;<code>14</code></summary>
+<summary><strong>self-help</strong> &nbsp;<code>15</code></summary>
 <br>
 
 - [ ] 7 Habits of Highly Effective People - Stephen Covey
@@ -111,6 +117,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Autobiography of Malcom X - Malcom X & Alex Haley
 - [ ] Becoming Supernatural - Dr Joe Dispenza
 - [ ] Deep Work - Cal Newport
+- [ ] Digital Minimalism - Cal Newport
 - [ ] The Official TED Guide to Public Speaking - Chris Anderson
 - [ ] The Power Of Now - Eckhart Tolle
 - [x] The Power of Your Subconscious Mind - Joseph Murphy
@@ -139,4 +146,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 30 June, 2026_
+_last updated: 9 July, 2026_
