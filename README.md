@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    8    |    2    |  67   |
+|    7    |    6    |  69   |
 
 ---
 
@@ -25,12 +25,13 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>artificial intelligence</strong> &nbsp;<code>5</code></summary>
+<summary><strong>artificial intelligence</strong> &nbsp;<code>6</code></summary>
 <br>
 
-- [ ] Artificial Intelligence - Stuart Russell and Peter Norvig
+- [ ] **<ins>Artificial Intelligence - Stuart Russell and Peter Norvig</ins>**
+- [ ] **<ins>Build a LLM From Scratch - Sebastian Raschka</ins>**
 - [ ] Deep Learning - Ian Goodfellow
-- [ ] How AI Works From Sorcery to Science - Ronald T. Kneusel
+- [ ] **<ins>How AI Works From Sorcery to Science - Ronald T. Kneusel</ins>**
 - [ ] Introduction to Statistical Learning with Python - Gareth James
 - [ ] Superintelligence - Nick Bostrom
 
@@ -70,10 +71,11 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>operating system</strong> &nbsp;<code>2</code></summary>
+<summary><strong>operating system</strong> &nbsp;<code>3</code></summary>
 <br>
 
 - [ ] Mac OSX Internals - A Systems Approach - Amit Singh
+- [ ] **<ins>Operating System Design The Xinu Approach - Douglas Comer</ins>**
 - [ ] Operating Systems - Three Easy Pieces - Remzi & Andrea
 
 </details>
@@ -83,7 +85,7 @@ my personal collection of books across computer science, hacking, and beyond.
 <br>
 
 - [ ] Eloquent JavaScript - Marijn Haverbeke
-- [ ] Fluent Python - Luciano Ramalho
+- [x] Fluent Python - Luciano Ramalho
 - [x] Learning SQL - Alan Beaulieu
 - [ ] The C Programming Language - Kernighan and Ritchie
 - [ ] The C++ Programming Language - Bjarne Stroustrup
@@ -95,11 +97,11 @@ my personal collection of books across computer science, hacking, and beyond.
 <br>
 
 - [ ] Divine Speech - Nouman Ali Khan
-- [x] Forbidden Prophecies - Abu Zakariyah
+- [ ] Forbidden Prophecies - Abu Zakariyah
 - [ ] Investigation on the Author's Style and the Authenticity of the Holy Quran - Halim Sayoud
 - [ ] Miraculous Language of the Quran - Bassam Saeh
 - [ ] Structure and Quranic Interpretation - Raymond Farrin
-- [x] The Burhan - Mohammed Hijab
+- [ ] The Burhan - Mohammed Hijab
 - [ ] The Composition of the Quran - Michael Cuypers
 - [x] The Man in the Red Underpants - A. R. Green
 - [ ] The Modernist Menace to Islam - Daniel Haqiqatjou
@@ -146,4 +148,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 9 July, 2026_
+_last updated: 3 August, 2026_
