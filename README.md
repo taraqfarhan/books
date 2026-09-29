@@ -6,7 +6,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 | finished | reading | total |
 | :------: | :-----: | :---: |
-|    7    |    6    |  69   |
+|    11    |    1    |  70   |
 
 ---
 
@@ -28,10 +28,10 @@ my personal collection of books across computer science, hacking, and beyond.
 <summary><strong>artificial intelligence</strong> &nbsp;<code>6</code></summary>
 <br>
 
-- [ ] **<ins>Artificial Intelligence - Stuart Russell and Peter Norvig</ins>**
-- [ ] **<ins>Build a LLM From Scratch - Sebastian Raschka</ins>**
+- [ ] Artificial Intelligence - Stuart Russell and Peter Norvig
+- [x] Build a LLM From Scratch - Sebastian Raschka
 - [ ] Deep Learning - Ian Goodfellow
-- [ ] **<ins>How AI Works From Sorcery to Science - Ronald T. Kneusel</ins>**
+- [ ] How AI Works From Sorcery to Science - Ronald T. Kneusel
 - [ ] Introduction to Statistical Learning with Python - Gareth James
 - [ ] Superintelligence - Nick Bostrom
 
@@ -43,7 +43,7 @@ my personal collection of books across computer science, hacking, and beyond.
 
 - [ ] Black Hat GraphQL - Nick Aleks and Dolev Farhi
 - [ ] Black Hat Python - Justin Seitz
-- [ ] **<ins>Bug Bounty Bootcamp - Vickie Li</ins>**
+- [x] Bug Bounty Bootcamp - Vickie Li
 - [ ] Bug Bounty Hunting Essentials - Shahmeer Amir
 - [ ] Bug Hunter Diary - Tobias Klein
 - [ ] From Day Zero to Zero Day - Eugene Lim
@@ -64,8 +64,8 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] The Mac Hacker's Handbook - Charlie Miller and Dino Dai Zovi
 - [ ] The Tangled Web - Michal Zalewski
 - [ ] The Web Application Hacker's Handbook - Stuttard and Pinto
-- [ ] **<ins>Web Hacking 101 - Peter Yaworski</ins>**
-- [ ] Web Hacking Arsenal - Rafay Baloch
+- [ ] Web Hacking 101 - Peter Yaworski
+- [x] Web Hacking Arsenal - Rafay Baloch
 - [ ] Web Security Testing Guide v4.2 - OWASP
 
 </details>
@@ -109,7 +109,7 @@ my personal collection of books across computer science, hacking, and beyond.
 </details>
 
 <details>
-<summary><strong>self-help</strong> &nbsp;<code>15</code></summary>
+<summary><strong>self-help</strong> &nbsp;<code>16</code></summary>
 <br>
 
 - [ ] 7 Habits of Highly Effective People - Stephen Covey
@@ -120,6 +120,7 @@ my personal collection of books across computer science, hacking, and beyond.
 - [ ] Becoming Supernatural - Dr Joe Dispenza
 - [ ] Deep Work - Cal Newport
 - [ ] Digital Minimalism - Cal Newport
+- [x] Sophie's World - Jostein Gaarder
 - [ ] The Official TED Guide to Public Speaking - Chris Anderson
 - [ ] The Power Of Now - Eckhart Tolle
 - [x] The Power of Your Subconscious Mind - Joseph Murphy
@@ -148,4 +149,4 @@ I am using [Highlights](https://highlightsapp.net/) app to take notes in the boo
 
 ---
 
-_last updated: 3 August, 2026_
+_last updated: 29 September, 2026_
